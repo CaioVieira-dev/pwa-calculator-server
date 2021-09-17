@@ -1,3 +1,4 @@
+//configure the server as a class to allow testing with supertest
 const express = require("express");
 const cors = require("cors");
 
